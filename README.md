@@ -6,5 +6,9 @@ A slidingpuzle
 * https://www.youtube.com/watch?v=uQZLzhrzEs4  video codingtrain slidingpuzzle coding challenge 165
 * https://nannou.cc/ An open-source creative-coding framework for Rust
 
+# TODO
+* solvable random
+* slide animation
+
 # License
 GNU GPL (c) 2022 David rasch 
